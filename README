@@ -1,5 +1,5 @@
-README for AVL Assignment, CSE101
-D. Sivarajan, Feb 2025
+README for AVL Tree Implementation for Efficient Range Queries	
+Danush Sivarajan, Mar 2025
 
 ----------------------------------------------------------
 
@@ -9,7 +9,7 @@ Extra Files: README
 
 -----------------------------------------------------------
 
-This is an assignment that uses a Binary Search Tree to help range search with AVL.
+This is a project that uses a Binary Search Tree to help range search with AVL.
 
 -----------------------------------------------------------
 
