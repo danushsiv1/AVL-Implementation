@@ -4,7 +4,7 @@ Danush Sivarajan, Mar 2025
 ----------------------------------------------------------
 
 Code Files: Makefile, AVLTree.cpp, AVLTree.h, main.cpp
-Test Files: simple-input.txt simple-output.txt test-output.txt
+Test Files: simple-input.txt simple-output.txt
 Extra Files: README
 
 -----------------------------------------------------------
