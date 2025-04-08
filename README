@@ -1,0 +1,23 @@
+README for AVL Assignment, CSE101
+D. Sivarajan, Feb 2025
+
+----------------------------------------------------------
+
+Code Files: Makefile, AVLTree.cpp, AVLTree.h, main.cpp
+Test Files: simple-input.txt simple-output.txt test-output.txt
+Extra Files: README
+
+-----------------------------------------------------------
+
+This is an assignment that uses a Binary Search Tree to help range search with AVL.
+
+-----------------------------------------------------------
+
+File Descriptions:
+
+AVLTree.cpp: Contains the implementation of AVL.
+AVLTree.h: Contains header file for AVL, defining Node struction & method declarations.
+main.cpp: Main function
+simple-input.txt: Already given to us as a guidance to what exactly the code should look like.
+Makefile: Used to compile the code and create executable
+README: This file, gives brief understand of assignment directions and shows file descriptions
